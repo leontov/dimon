@@ -1,9 +1,9 @@
 ---
 contentType: blog
-path: /welcome
-title: Welcome
+path: /Про бег
+title: Чем для нашего организма полезен бег?
 ---
-Чем для нашего организма полезен бег?
+
 April 05, 2018
 
 
